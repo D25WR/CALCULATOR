@@ -1,2 +1,3 @@
 # CODESOFT
-In this we create projects as per the domain which has been selected
+
+I have succefully completed my 1st task in Python the task was to make a calculator in which basic arithmetic operations are done using two integers or more than two integers.
